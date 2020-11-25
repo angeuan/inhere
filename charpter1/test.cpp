@@ -21,4 +21,5 @@ int main(){
 	plies=sqrt((n+1)/2);
 	print(0,plies*2-1,ch);
 	cout<<n-pow(plies,2)*2+1<<endl;
+	return 0;
 }
