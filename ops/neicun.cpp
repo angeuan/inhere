@@ -107,7 +107,7 @@ int readData()
 
     {
 
-        cout << "错误，文件打不开，请检查文件名" << endl;
+        cout << "错误，文件打不 开，请检查文件名" << endl;
     }
 
     else
